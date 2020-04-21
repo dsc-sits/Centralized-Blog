@@ -1,2 +1,2 @@
 # Centralized-Blog
-DSC Web team project
+DSC SIT Web-team project
